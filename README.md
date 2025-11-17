@@ -91,9 +91,12 @@ void led_blink()
 
 ## Output  :
 
-![Uploading image.png…]()
 
- 
+
+
+
+ <img width="763" height="1018" alt="image" src="https://github.com/user-attachments/assets/e4510696-51aa-4dbb-99fc-d31b051720eb" />
+
  
  
  
